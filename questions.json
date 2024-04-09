@@ -1,0 +1,127 @@
+[
+  {
+    "question": "What does the acronym 'SQL' stand for in the context of databases?",
+    "type": "multiple_choice",
+    "choices": [
+      "Structured Question Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "Sequential Query Language"
+    ],
+    "correctAnswer": "Standard Query Language",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does the acronym 'API' stand for?",
+    "type": "multiple_choice",
+    "choices": [
+      "Application Programming Interface",
+      "Advanced Programming Interface",
+      "Automated Programming Interface",
+      "Application Process Integration"
+    ],
+    "correctAnswer": "Application Programming Interface",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which programming language is known for its use in building dynamic web pages?",
+    "type": "multiple_choice",
+    "choices": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C#"
+    ],
+    "correctAnswer": "JavaScript",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the purpose of the 'try', 'catch', and 'finally' blocks in exception handling?",
+    "type": "multiple_choice",
+    "choices": [
+      "Try is where the code that might raise an exception is placed",
+      "Catch is where the handling of the exception occurs",
+      "Finally is where cleanup code is placed, and it always executes",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which programming language is often used for developing mobile applications on the iOS platform?",
+    "type": "multiple_choice",
+    "choices": [
+      "Java",
+      "Swift",
+      "C#",
+      "Kotlin"
+    ],
+    "correctAnswer": "Swift",
+    "difficulty": "hard"
+  },
+  {
+    "question": "True or False: Agile is a software development methodology.",
+    "type": "true_false",
+    "choices": ["True", "False"],
+    "correctAnswer": "True",
+    "difficulty": "easy"
+  },
+  {
+    "question": "True or False: Waterfall is an iterative software development approach.",
+    "type": "true_false",
+    "choices": ["True", "False"],
+    "correctAnswer": "False",
+    "difficulty": "hard"
+  },
+  {
+    "question": "True or False: Test-driven development (TDD) emphasizes writing tests after the code has been developed.",
+    "type": "true_false",
+    "choices": ["True", "False"],
+    "correctAnswer": "False",
+    "difficulty": "hard"
+  },
+  {
+    "question": "True or False: Scrum is a framework for managing software development projects.",
+    "type": "true_false",
+    "choices": ["True", "False"],
+    "correctAnswer": "True",
+    "difficulty": "easy"
+  },
+  {
+    "question": "True or False: Pair programming involves two programmers working on the same code simultaneously.",
+    "type": "true_false",
+    "choices": ["True", "False"],
+    "correctAnswer": "True",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Software ____________ is the process of ensuring that a software system meets the intended requirements and specifications.",
+    "type": "fill_in_the_blank",
+    "correctAnswer": "Testing",
+    "difficulty": "easy"
+  },
+  {
+    "question": "In software engineering, ____________ is a technique for breaking down a complex problem into smaller, more manageable parts.",
+    "type": "fill_in_the_blank",
+    "correctAnswer": "Decomposition",
+    "difficulty": "hard"
+  },
+  {
+    "question": "____________ is a process of converting software code into an executable form.",
+    "type": "fill_in_the_blank",
+    "correctAnswer": "Compilation",
+    "difficulty": "easy"
+  },
+  {
+    "question": "A ____________ is a systematic approach to finding and fixing defects in software.",
+    "type": "fill_in_the_blank",
+    "correctAnswer": "Debugging",
+    "difficulty": "hard"
+  },
+  {
+    "question": "___________ is the process of converting user requirements into a design that describes how the software system will work.",
+    "type": "fill_in_the_blank",
+    "correctAnswer": "Software Design",
+    "difficulty": "easy"
+  }
+]
